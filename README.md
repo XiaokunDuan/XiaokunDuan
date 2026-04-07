@@ -4,10 +4,10 @@ These are things I've built:
 
 | |  | for human |
 |---|---|---|
-| 📸 | [snapshot](https://github.com/XiaokunDuan/snapshot_source/tree/main/snapshot) | Image-first English learning app that extracts vocabulary from photos, keeps study history, and now runs as a live web app with sign-in, check-ins, and word books.<br>面向图片输入的英语学习应用，从照片里提取单词并保存学习历史、打卡和单词本，现已可作为在线 Web 应用运行。 |
-| 📚 | [reader](https://github.com/XiaokunDuan/reader) | AI-assisted reading workspace for long-form content, built for summarizing, questioning, and structuring what matters.<br>面向长内容阅读的 AI 工作台，用来摘要、追问和整理真正重要的信息。 |
-| 📰 | [newsRSS](https://github.com/XiaokunDuan/newsRSS) | LLM-assisted RSS intelligence pipeline for daily news monitoring, ranking, and delivery across Markdown, email, and Telegram.<br>面向日常新闻监控的 LLM 辅助 RSS 流水线，支持摘要、排序以及多渠道分发。 |
-| ⚡ | [hammerspoon-config](https://github.com/XiaokunDuan/hammerspoon-config) | A personal macOS automation stack that ties together window control, app launching, Obsidian capture, and Feishu export workflows.<br>一套围绕真实工作流整理的 macOS 自动化配置，覆盖窗口控制、应用切换、Obsidian 捕获与飞书导出。 |
+| 📸 | [snapshot](https://github.com/XiaokunDuan/snapshot_source/tree/main/snapshot) | Image-first English learning app that turns photos into vocabulary cards, study history, and a live web workflow.<br>面向图片输入的英语学习应用，把照片转成单词卡、学习历史和可直接使用的 Web 学习流程。 |
+| 📚 | [reader](https://github.com/XiaokunDuan/reader) | AI-assisted reading workspace for long-form content, built for summarizing, questioning, and structuring what matters.<br>面向长内容阅读的 AI 工作台，用来摘要、追问，并把真正重要的信息整理出来。 |
+| 📰 | [Palo Wire](https://github.com/XiaokunDuan/silicon-sync) | AI-native source node for tracking high-signal Silicon Valley tech and VC writing, built for downstream agents instead of human browsing.<br>面向 AI 的硅谷高信号信息节点，持续整理科技与 VC 内容，给下游 agent 抓取、总结和提炼使用。 |
+| ⚡ | [hammerspoon-config](https://github.com/XiaokunDuan/hammerspoon-config) | A personal macOS automation stack for real workflows across window control, app launching, Obsidian capture, and Feishu export.<br>一套围绕真实工作流整理的 macOS 自动化配置，覆盖窗口控制、应用切换、Obsidian 捕获与飞书导出。 |
 
 > Building things that matter | 做有意义的事
 
