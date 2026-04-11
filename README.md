@@ -4,7 +4,9 @@
 | 📰 | [Palo Wire](https://github.com/XiaokunDuan/palo-wire) | for AI |
 | ⚡ | [hammerspoon-config](https://github.com/XiaokunDuan/hammerspoon-config) | for human |
 
-> Taste classifies, and it classifies the classifier.
+<p align="center">
+  <strong><em>"Taste classifies, and it classifies the classifier."</em></strong>
+</p>
 
 ## Tech Stack
 
