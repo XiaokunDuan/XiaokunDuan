@@ -1,8 +1,8 @@
-| |  | for human |
+| |  | built for |
 |---|---|---|
-| 📸 | [snapshot](https://github.com/XiaokunDuan/snapshot_source/tree/main/snapshot) | Image-first English learning app that turns photos into vocabulary cards, study history, and a live web workflow. |
-| 📰 | [Palo Wire](https://github.com/XiaokunDuan/palo-wire) | AI-native source node for tracking high-signal Silicon Valley tech and VC writing, built for downstream agents instead of human browsing. |
-| ⚡ | [hammerspoon-config](https://github.com/XiaokunDuan/hammerspoon-config) | A personal macOS automation stack for real workflows across window control, app launching, and everyday desktop automation. |
+| 📸 | [snapshot](https://github.com/XiaokunDuan/snapshot_source/tree/main/snapshot) | for human |
+| 📰 | [Palo Wire](https://github.com/XiaokunDuan/palo-wire) | for AI |
+| ⚡ | [hammerspoon-config](https://github.com/XiaokunDuan/hammerspoon-config) | for human |
 
 > Taste classifies, and it classifies the classifier.
 
