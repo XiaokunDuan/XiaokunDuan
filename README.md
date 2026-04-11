@@ -1,7 +1,3 @@
-These are things I've built:
-
-这些是我做的东西：
-
 | |  | for human |
 |---|---|---|
 | 📸 | [snapshot](https://github.com/XiaokunDuan/snapshot_source/tree/main/snapshot) | Image-first English learning app that turns photos into vocabulary cards, study history, and a live web workflow.<br>面向图片输入的英语学习应用，把照片转成单词卡、学习历史和可直接使用的 Web 学习流程。 |
