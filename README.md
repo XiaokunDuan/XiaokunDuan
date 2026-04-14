@@ -1,6 +1,6 @@
 | |  | built for |
 |---|---|---|
-| 📸 | [snapshot](https://github.com/XiaokunDuan/snapshot_source/tree/main/snapshot) | for human. Image-first English learning app that turns photos into vocabulary cards, study history, and a live web workflow. |
+| 📸 | [snapshot](https://github.com/XiaokunDuan/snapshot_source/tree) | for human. Image-first English learning app that turns photos into vocabulary cards, study history, and a live web workflow. |
 | 📰 | [Palo Wire](https://github.com/XiaokunDuan/palo-wire) | for AI. AI-native source node for tracking high-signal Silicon Valley tech and VC writing, built for downstream agents instead of human browsing. |
 | ⚡ | [hammerspoon-config](https://github.com/XiaokunDuan/hammerspoon-config) | for human. A personal macOS automation stack for real workflows across window control, app launching, and everyday desktop automation. |
 
