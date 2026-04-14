@@ -11,7 +11,7 @@
 
 <p align="center">
   <sub>🏢 <a href="https://bytedance.com">ByteDance</a> · Beijing, China</sub><br>
-  <sub><a href="https://x.com/TechMGR">@TechMGR</a> · <a href="https://xiaokunduan.github.io">xiaokunduan.github.io</a></sub>
+  <sub><a href="https://x.com/TechMGR34">@TechMGR34</a> · <a href="https://xiaokunduan.github.io">xiaokunduan.github.io</a></sub>
 </p>
 
 ## Tech Stack
